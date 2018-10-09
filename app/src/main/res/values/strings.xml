@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string name="btn_label">Button</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
+    <string name="rmb_hint_label">Input RMB</string>
+    <string name="btn_save_label">Save</string>
+    <string name="btn_opencfg_label">Config</string>
+    <string name="add1">+3 POINTS</string>
+    <string name="add2">+2 POINTS</string>
+    <string name="add3">FREE THROW</string>
+    <string name="btn_reset">RESET</string>
+</resources>
