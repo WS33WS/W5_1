@@ -46,8 +46,6 @@ public class ConfigActivity extends AppCompatActivity {
         float newEuro=Float.parseFloat(euroText.getText().toString());
         float newWon=Float.parseFloat(wonText.getText().toString());
 
-
-
         Log.i(TAG,"save:获取到新的值");
         Log.i(TAG,"save:newDollar="+newDollar);
         Log.i(TAG,"save:newEuro="+newEuro);
